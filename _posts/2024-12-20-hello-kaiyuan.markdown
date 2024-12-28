@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "开源软件分析与设计课程"
-author:       "Lijiatu"
+author:       "WC"
 header-style: text
 catalog:      true
 tags:
