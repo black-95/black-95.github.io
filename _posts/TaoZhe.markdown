@@ -16,7 +16,7 @@ tags:
 #### 专辑
 1、David Tao
    音乐有
-   ！[]
+   ![](https://baike.baidu.com/pic/David%20Tao/2266943/1/4034970a304e251f95cab2329cdede177f3e6609f5fb?fromModule=lemma_top-image&ct=single#aid=1&pic=4034970a304e251f95cab2329cdede177f3e6609f5fb)
 2、开源的商业化模式；
 3、开源软件工程；
 4、开源协作全流程；
