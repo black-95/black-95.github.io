@@ -15,9 +15,13 @@ tags:
 
 #### 专辑
 1、David Tao
-   音乐有
-   ![](https://baike.baidu.com/pic/David%20Tao/2266943/1/4034970a304e251f95cab2329cdede177f3e6609f5fb?fromModule=lemma_top-image&ct=single#aid=1&pic=4034970a304e251f95cab2329cdede177f3e6609f5fb)
-2、开源的商业化模式；
+   音乐有Airport Take Off，飞机场的10:30，Airport Arrival，爱，很简单，沙滩，十七岁，望春风，
+   王八蛋，是是非非，流沙，Take 6 Minus 3，心乱飞，再见以前先说再见，沙滩（钢琴版），Answering Machine
+   
+   ![David Tao](https://github.com/user-attachments/assets/c6784c5c-d5f6-4b37-9a8b-6b4325e8d7d6)
+
+2、I'm OK
+
 3、开源软件工程；
 4、开源协作全流程；
 5、开源代码质量管理；
