@@ -39,9 +39,3 @@ tags:
 音乐有太美丽广播电台，忘不了，太美丽，追，那一瞬间，Walk On，自导自演的悲剧，祝你幸福，
 似曾相识，今天你要嫁给我，每一面都美，不爱，Olia，瞬间倾心 恒久钟情。
 ![太美丽](https://github.com/user-attachments/assets/e06359e5-2c2f-455a-be3f-2479ca964c9a)
-
-6、开源社区经营；
-7、开源项目——hypercrx（X-lab）；
-8、开源项目——opendigger（X-lab）；
-9、开源项目——多智能体可视化仿真框架（OS-HUBU）；
-10、开源项目的开发。
