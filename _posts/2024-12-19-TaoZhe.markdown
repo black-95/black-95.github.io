@@ -39,3 +39,8 @@ tags:
 音乐有太美丽广播电台，忘不了，太美丽，追，那一瞬间，Walk On，自导自演的悲剧，祝你幸福，
 似曾相识，今天你要嫁给我，每一面都美，不爱，Olia，瞬间倾心 恒久钟情。
 ![太美丽](https://github.com/user-attachments/assets/e06359e5-2c2f-455a-be3f-2479ca964c9a)
+
+# Sidebar settings
+sidebar: true # whether or not using Sidebar.
+sidebar-about-description: "软件工程2202班 汪成 202231116020086 <br>black-95"
+sidebar-avatar: https://n.sinaimg.cn/sinakd2021427s/726/w852h674/20210427/3f45-kphwumr4412651.png # use absolute URL, seeing it's used in both `/` and `/about/`
